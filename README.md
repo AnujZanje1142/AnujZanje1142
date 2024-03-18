@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm  Anuj Zanje</h1>
 <p>Hello, I am 3rd Year BCA student . I am work in clg last year project with php,mysql ,css and js.I am learning Python and Machine Learning</p>
 <h2>🚀 Languages and Tools I Use</h2>
+https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 
 
 <li><a target="_blank" href=""></a></li>
