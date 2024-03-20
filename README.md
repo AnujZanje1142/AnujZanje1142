@@ -13,13 +13,7 @@
 
 
 
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="right">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bv3jmzqbg5lbw47vqa4bqpxxpa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31bv3jmzqbg5lbw47vqa4bqpxxpa&redirect=true)
 
 ###
 # 💻 Tech Stack:
