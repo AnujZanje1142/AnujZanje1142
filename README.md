@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anujzanje@gamil.com**
 
-- 📄 Know about my experiences [I am 3rd year BCA student](I am 3rd year BCA student)
+- 📄 Know about my experiences [I am done my first freelancer chatbot project)
 
 
 
