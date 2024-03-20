@@ -11,6 +11,9 @@
 
 - 📄 Know about my experiences [I am done my first freelancer chatbot project)
 
+- &nbsp;<div align="center">
+ [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/user/to6rms2g0fzerpkwox1k4v33w)
+
 
 
 
