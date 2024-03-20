@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [I am 3rd year BCA student](I am 3rd year BCA student)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0cj48sijCRDJ3Hatx1k1vJ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 # 💻 Tech Stack:
