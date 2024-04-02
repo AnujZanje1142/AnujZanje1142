@@ -17,7 +17,7 @@
 
   &nbsp; &nbsp; &nbsp; &nbsp;<div align="center">
 
-  [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/playlist/5IinHlzXHmRl7mGfdcWg6M?si=1630b464f5244313)
+  [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/playlist/5IinHlzXHmRl7mGfdcWg6M?si=b559e8594dfa4fc5)
 
 
 ###
