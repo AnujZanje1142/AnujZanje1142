@@ -16,9 +16,9 @@
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;<div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5IinHlzXHmRl7mGfdcWg6M?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-  [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/playlist/5IinHlzXHmRl7mGfdcWg6M?si=b559e8594dfa4fc5)
+
+  [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/playlist/5IinHlzXHmRl7mGfdcWg6M?si=47960eb2dc1b4703)
 
 
 ###
