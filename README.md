@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Zanje</h1>
 <h3 align="center">I am new 3rd year clg student</h3>
 
-- 🔭 I’m currently working on **My Personal Portfolio**
+- 🔭 check out my portfolio on laptop or pc and phone size current not working  
 
 - 🌱 I’m currently learning **Python,Machine Learning and Tailwind**
 
