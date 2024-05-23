@@ -15,13 +15,12 @@
 
 
 
-  &nbsp; &nbsp; &nbsp; &nbsp;<div align="center">
 
 
   [![Spotify](https://novatorem-mauve-eight.vercel.app/api/spotify)](https://open.spotify.com/playlist/5IinHlzXHmRl7mGfdcWg6M?si=47960eb2dc1b4703)
 
 
-###
+
 #<div align="left">
 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
