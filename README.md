@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Python,Machine Learning and Tailwind**
 
-- 📝 I regularly write articles on [My Personal Note-Book](My Personal Note-Book)
-
-- 📫 How to reach me **anujzanje@gamil.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [I am done my first freelancer chatbot project)
 
