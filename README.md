@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,Machine Learning and Tailwind**
 
-- 📫 How to reach me ![AnujZanje]https://anujzanje1142.github.io/Anuj-Portfolio/.
+- 📫 How to reach me https://anujzanje1142.github.io/Anuj-Portfolio/.
 
 - 📄 Know about my experiences [I am done my first freelancer chatbot project)
 
