@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Zanje</h1>
-<h3 align="center">I am 3rd year clg student</h3>
+
 
 - 🔭 check out my portfolio on laptop or pc and phone size current not working  
 
