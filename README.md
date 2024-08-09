@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Zanje</h1>
 
 
-- 🔭 check out my portfolio on laptop or pc and phone size current not working  
-
 - 🌱 I’m currently learning **Python,Machine Learning and Tailwind**
 
 - 📫 How to reach me https://anujzanje1142.github.io/Anuj-Portfolio/.
