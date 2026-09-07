@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,Machine Learning and Tailwind**
 
-- 📫 How to reach me anuj-portfolio-pi.vercel.app.
+- 📫 How to reach me [anuj-portfolio-pi.vercel.app.](https://anuj-portfolio-pi.vercel.app/)
 
 - 📄 Know about my experiences [I am done my first freelancer chatbot project)
 
